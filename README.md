@@ -9,4 +9,3 @@
 | [Day 03: HTML](./Day03/README.md)                           | [Day 08: Javascript: DOM Manipulation and Events](./Day08/README.md) | [Day 13: Databases](./Day13/README.md)          | [Day 18: Hooks and Linking Frontend with Backend](./Day18/README.md)           |
 | [Day 04: CSS](./Day04/README.md)                            | [Day 09: Local Storage and JSON](./Day09/README.md)                  | [Day 14: CRUD](./Day14/README.md)               | [Day 19: Frontend Deployment](./Day19/README.md)                               |
 | [Day 05: Javascript: Introduction](./Day05/README.md)       | [Day 10: Recursive Function and Regex ](./Day10/README.md)           | [Day 15: Backend Deployment](./Day15/README.md) | [Day 20: Advance Installation Party](./Day20/README.md)                        |
-
