@@ -31,6 +31,10 @@ app.use(bodyParser.json())
 // routes:
 app.post("/addRecipe", handleAdd);
 app.get("/getRecipes", handleGet);
+app.put("/updateRecipe/:recipeName", handleUpdate)    // UPDATE with params
+app.delete("/deleteRecipe", handleDelete)   // DELETE with quey
+
+
 app.use(handleError);
 
 
@@ -67,9 +71,7 @@ function handleGet(req, res) {
     });
 }
 
-function handleError(error, req, res) {
-    res.status(500).send(error)
-}
+
 
 
 // after connection to db, start the server
