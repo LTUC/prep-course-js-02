@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;900&display=swap');
+
+.scrollBar {
+    overflow: auto;
+    height: 40%;
+    text-align: left;
+    font-family: "Caponi Slab", Georgia, "Times New Roman", Times, serif;
+    color: #061148;
+
+}
+
+.cardBody {
+    height: 18rem;
+}
+
+.heading {
+    text-align: center;
+    font-size: 50px;
+    color: #061148;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 1.1;
+
+}
+
+.title {
+    font-family: 'Roboto Slab', serif;
+    font-weight: 700;
+    color: #002791;
+    height: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tagline {
+    font-family: "Caponi Slab", Georgia, "Times New Roman", Times, serif;
+    color: #061148;
+    height: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
